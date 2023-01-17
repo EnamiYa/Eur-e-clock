@@ -1,3 +1,3 @@
 # Eur-e-clock
-An alarm clock to enforce wake-up times. 
+An Alarm Clock that wakes you up everyday with a new information :D 
 ...(More to be added later)
