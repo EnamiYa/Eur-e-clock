@@ -26,8 +26,8 @@ int p=0;
 
 
 // Replace with your network credentials
-const char* ssid = "iPhone 12 mini";
-const char* password = "Enamiya7";
+const char* ssid = "wifi_name"
+const char* password = "wifi_password";
 
 // Setting up real-time clock
 const char* NTP_SERVER = "ch.pool.ntp.org";
@@ -95,7 +95,7 @@ bool getNTPtime(int sec) {
   return true;
 }
 
-// This function print real time clock on serial monitor (used for testing)
+// This function prints real time clock on serial monitor (used for testing)
 void showTime(tm localTime) {
 //  Serial.println('\n');
 //  Serial.print(localTime.tm_hour + 6);
@@ -572,3 +572,5 @@ lcd.print("EUR-E-CLOCK");
 
   delay(200);
 }
+
+// Thank you for reading - Imane :)) 
