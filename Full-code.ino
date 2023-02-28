@@ -26,8 +26,8 @@ int p=0;
 
 
 // Replace with your network credentials
-const char* ssid = "wifi_name"
-const char* password = "wifi_password";
+const char* ssid = "yourNetworkName"
+const char* password = "yourNetworkPassword";
 
 // Setting up real-time clock
 const char* NTP_SERVER = "ch.pool.ntp.org";
