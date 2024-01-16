@@ -1,7 +1,7 @@
 # Eur-e-clock
 ![image](https://github.com/EnamiYa/Eur-e-clock/assets/88585398/ad4a039f-b8d9-49ff-98eb-c274bf177337)
 
-The Eure-e-clock alarm clock is designed to address the common problem of hitting turning off the alarm and going back to sleep after by introducing an engaging and interactive feature to ensure users are fully awake when the alarm goes off. Instead of merely pushing a button to stop the alarm, users must answer a multiple-choice question on general knowledge available on a web app. The quiz challenge stimulates your brain, ensuring that you are fully awake and starts your day on an intellectually refreshing note.
+The Eure-e-clock alarm clock is designed to address the common problem of hitting turning off the alarm and going back to sleep after by introducing an engaging and interactive feature to ensure users are fully awake when the alarm goes off. Instead of merely pushing a button to stop the alarm, users must answer a trivia question available on a web app. The quiz challenge stimulates your brain, ensuring that you are fully awake and starts your day on an intellectually refreshing note.
 
 ## Why “EUR-E-CLOCK”
 “EUR-E-CLOCK” is a play on the word “EUREKA” and Clock. Eureka means “I have found it” in Greek. It is a reference to the quiz feature that is all about finding the right answer to the trivia question.
