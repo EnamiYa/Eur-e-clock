@@ -1,7 +1,7 @@
 # Eur-e-clock
 ![image](https://github.com/EnamiYa/Eur-e-clock/assets/88585398/ad4a039f-b8d9-49ff-98eb-c274bf177337)
 
-Eure-e-clock tackles the issue of easily turning off the alarm and going back to sleep. It introduces an engaging feature: instead of a simple button press, users must answer a trivia question on a web app. This quiz kick-starts your brain, ensuring a fully awake start to your day with a refreshing intellectual challenge.
+Eure-e-clock tackles the issue of turning off the alarm and going back to sleep. It introduces an engaging feature: instead of a simple button press, users must correctly answer a trivia question on a web app, ensuring a fully awake start to your day with a refreshing intellectual challenge.
 
 ## Why “EUR-E-CLOCK”
 
