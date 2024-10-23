@@ -573,4 +573,3 @@ lcd.print("EUR-E-CLOCK");
   delay(200);
 }
 
-// Thank you for having a look - Imane :)) 
